@@ -29,10 +29,10 @@
 <a href="https://linkedin.com/in/nada-alkharji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nada-alkharji" height="30" width="40" /></a>
 </p>
 
-<br><br>
 
+<p align="left"> <a href="https://twitter.com/nada_abdulmalek" target="blank"><img src="https://img.shields.io/twitter/follow/nada_abdulmalek?logo=twitter&style=for-the-badge" alt="nada_abdulmalek" /></a> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/nada_abdulmalek" target="blank"><img src="https://img.shields.io/twitter/follow/nada_abdulmalek?logo=twitter&style=for-the-badge" alt="nada_abdulmalek" /></a> </p> -->
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadaabdulmalek&show_icons=true&locale=en" alt="nadaabdulmalek" /></p>
 
