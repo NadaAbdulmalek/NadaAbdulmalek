@@ -25,5 +25,5 @@
 
 <p align="left"> <a href="https://twitter.com/nada_abdulmalek" target="blank"><img src="https://img.shields.io/twitter/follow/nada_abdulmalek?logo=twitter&style=for-the-badge" alt="nada_abdulmalek" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadaabdulmalek&show_icons=true&locale=en" alt="nadaabdulmalek" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadaabdulmalek&show_icons=true&locale=en" alt="nadaabdulmalek" /></p> -->
 
