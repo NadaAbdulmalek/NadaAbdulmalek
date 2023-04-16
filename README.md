@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadaabdulmalek&label=Profile%20views&color=0e75b6&style=flat" alt="nadaabdulmalek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadaabdulmalek" alt="nadaabdulmalek" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadaabdulmalek" alt="nadaabdulmalek" /></a> </p> -->
 
-<br><br>
+<br>
 
 - 🎓 I’m currently working on **Graduation Project**
 
@@ -30,7 +30,7 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/nada_abdulmalek" target="blank"><img src="https://img.shields.io/twitter/follow/nada_abdulmalek?logo=twitter&style=for-the-badge" alt="nada_abdulmalek" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/nada_abdulmalek" target="blank"><img src="https://img.shields.io/twitter/follow/nada_abdulmalek?logo=twitter&style=for-the-badge" alt="nada_abdulmalek" /></a> </p> -->
 
 <br>
 
