@@ -8,7 +8,7 @@
 
 - 🎓 I’m currently working on **Graduation Project**
 
-- ⭐ I’m currently learning **Data Analysis, Machine Learning and Natural Language Processing**
+- ⭐ I’m currently learning **Data Analysis, Machine Learning**
 
 - 📍 All of my projects are available at [https://github.com/NadaAbdulmalek](https://github.com/NadaAbdulmalek)
 
