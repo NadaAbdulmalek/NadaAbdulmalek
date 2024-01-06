@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadaabdulmalek" alt="nadaabdulmalek" /></a> </p> -->
 
-- 🎓 I’m a Computer Science **fresh graduate**
+- 🎓 I’m a Computer Science **Fresh Graduate**
 
 - ⭐ I’m always looking for experiences and opportunities that promote personal and professional growth
 
