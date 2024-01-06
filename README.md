@@ -8,7 +8,7 @@
 
 - 🎓 I’m a Computer Science **Fresh Graduate**
 
-- ⭐ I’m always looking for experiences and opportunities that promote personal and professional growth
+- ⭐ I’m looking for an opportunity in the field of **data** that will refine and develop my skills
 
 - 📍 All of my projects are available at [https://github.com/NadaAbdulmalek](https://github.com/NadaAbdulmalek)
 
