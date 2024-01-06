@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Nada Abdulmalek Alkharji</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Computer Science</h3>
 <br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadaabdulmalek&label=Profile%20views&color=0e75b6&style=flat" alt="nadaabdulmalek" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadaabdulmalek" alt="nadaabdulmalek" /></a> </p> -->
 
-- 🎓 I’m currently working on **Graduation Project**
+- 🎓 I’m a Computer Science **fresh graduate**
 
-- ⭐ I’m currently learning **Data Analysis, Machine Learning**
+- ⭐ I’m always looking for experiences and opportunities that promote personal and professional growth **Data Analysis, Machine Learning**
 
 - 📍 All of my projects are available at [https://github.com/NadaAbdulmalek](https://github.com/NadaAbdulmalek)
 
