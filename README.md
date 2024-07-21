@@ -12,7 +12,7 @@
 
 - 📍 All of my projects are available at [https://github.com/NadaAbdulmalek](https://github.com/NadaAbdulmalek)
 
-- 📧 How to reach me **NadaAbdulmalekAlkh@gmail.com**
+- 📧 How to reach me **nadaaalkharji@gmail.com**
 
 <br>
 
