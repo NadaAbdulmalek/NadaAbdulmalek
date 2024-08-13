@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nada Abdulmalek Alkharji</h1>
+<h1 align="center">Hi, I'm Nada Alkharji</h1>
 <h3 align="center">Computer Science</h3>
 <br>
 
@@ -10,7 +10,7 @@
 
 - ⭐ I’m looking for an opportunity in the field of **data** that will refine and develop my skills
 
-- 📍 All of my projects are available at [https://github.com/NadaAbdulmalek](https://github.com/NadaAlkharji)
+- 📍 All of my projects are available at [https://github.com/NadaAlkharji](https://github.com/NadaAlkharji)
 
 - 📧 How to reach me **nadaaalkharji@gmail.com**
 
