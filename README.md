@@ -10,7 +10,7 @@
 
 - ⭐ I’m looking for an opportunity in the field of **data** that will refine and develop my skills
 
-- 📍 All of my projects are available at [https://github.com/NadaAbdulmalek](https://github.com/NadaAbdulmalek)
+- 📍 All of my projects are available at [https://github.com/NadaAbdulmalek](https://github.com/NadaAlkharji)
 
 - 📧 How to reach me **nadaaalkharji@gmail.com**
 
